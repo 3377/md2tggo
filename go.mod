@@ -1,1 +1,3 @@
-go mod init github.com/3377/md2tgmd
+module github.com/3377/md2tgmd
+
+go 1.16
